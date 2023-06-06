@@ -2,9 +2,9 @@
 
 echo 'Start!'
 
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 2
 
-cd /vagrant
+cd /docker
 
 sudo apt-get update
 sudo apt-get install tree
