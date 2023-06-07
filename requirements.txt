@@ -1,2 +1,12 @@
+asgiref==3.7.2
+dbus-python==1.2.18
+distro==1.7.0
 Django==4.1.9
+djangorestframework==3.14.0
 mysqlclient==2.0.3
+PyGObject==3.42.1
+pytz==2023.3
+sqlparse==0.4.4
+ssh-import-id==5.11
+typing_extensions==4.6.3
+wrapt==1.15.0
