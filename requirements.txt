@@ -9,4 +9,5 @@ pytz==2023.3
 sqlparse==0.4.4
 ssh-import-id==5.11
 typing_extensions==4.6.3
+tzdata==2023.3
 wrapt==1.15.0
